@@ -11,13 +11,13 @@ I have experience in managing Linux-based server such as domain, firewall, and l
 
 > PT BerkatSoft _(2019 - now)_
 ```
-   - Linux-based web & database server installation and configuration
-   - Domain management using cloudflare
-   - Firewall management with port filtering
-   - Implementation of client-server concept / architecture by structuring web & database services on different servers
-   - Implementation of web server load balancer concept/architecture
-   - Implementation of docker container for web-app deployment
-   - Monitoring server performance, auto backup, and troubleshooting problems around servers
+- Linux-based web & database server installation and configuration
+- Domain management using cloudflare
+- Firewall management with port filtering
+- Implementation of client-server concept / architecture by structuring web & database services on different servers
+- Implementation of web server load balancer concept/architecture
+- Implementation of docker container for web-app deployment
+- Monitoring server performance, auto backup, and troubleshooting problems around servers
 ```
 
 > PT Informatika Reka Mandiri _(2017 - 2018)_
