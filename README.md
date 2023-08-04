@@ -1,7 +1,6 @@
 # **<p align="center">Hey there 👋</p>**
 
-## _my name is Ramdan Fahruroji,_
-## _i work as System Administrator_
+## _my name is Ramdan Fahruroji, i work as System Administrator_
 
 ## about me :)
 
