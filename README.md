@@ -1,5 +1,3 @@
-<p align="center">
-# **Hey there 👋**
-</p>
+# **<p align="center">Hey there 👋</p>**
 
 about me :)
