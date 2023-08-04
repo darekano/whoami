@@ -49,14 +49,10 @@ Computer & Networking _(2017)_
 ## technical table skill
 |System Administrator|Server Aplication|
 | --- | --- |
-|Networking
-Firewall
-Troubleshooting
-Docker Container|
-Apache
-Nginx
-MySQL
-PostgreSQL|
+|Networking|Apache|
+|Firewall|Nginx|
+|Troubleshooting|MySQL|
+|Docker Container|PostgreSQL|
 
 ## technical skill
 
