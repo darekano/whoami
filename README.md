@@ -22,5 +22,16 @@ I have experience in managing Linux-based server such as domain, firewall, and l
 ```
 
 > PT Informatika Reka Mandiri _(2017 - 2018)_
+```
+- Linux-based web & database server installation and configuration
+- Domain management using cloudflare
+- Firewall management with port filtering
+- Monitoring server performance, auto backup, and troubleshooting problems around servers
+```
 
 > Internship _(2016 - 2017)_
+```
+- Linux-based web & database server installation and configuration
+- Firewall management with port filtering
+- Server performance monitoring
+```
