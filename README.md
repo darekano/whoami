@@ -46,6 +46,18 @@ Informatics Engineering _(2022)_
 
 Computer & Networking _(2017)_
 
+## technical table skill
+|System Administrator|Server Aplication|
+| --- | --- |
+|Networking
+Firewall
+Troubleshooting
+Docker Container|
+Apache
+Nginx
+MySQL
+PostgreSQL|
+
 ## technical skill
 
 > System Administrator
