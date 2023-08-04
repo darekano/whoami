@@ -45,3 +45,39 @@ Informatics Engineering _(2022)_
 > Cimahi Vocational High School 1 <br />
 
 Computer & Networking _(2017)_
+
+## technical skill
+
+> System Administrator
+```
+Networking
+Firewall
+Troubleshooting
+Docker Container
+```
+
+> Server Aplication
+```
+Apache
+Nginx
+MySQL
+PostgreSQL
+```
+
+> Hosting Platform
+```
+Digital Ocean
+Microsoft Azure
+Amazon Web Service
+Cloudflare Domain
+```
+
+> Additional
+```
+Git
+Figma
+```
+
+## languages
+> english
+> bahasa
