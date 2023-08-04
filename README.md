@@ -38,8 +38,8 @@ I have experience in managing Linux-based server such as domain, firewall, and l
 
 ## education
 
-> Widyatama University
+> Widyatama University <&nbsp>
 Informatics Engineering _(2022)_
 
-> Cimahi Vocational High School 1
+> Cimahi Vocational High School 1 <&nbsp>
 Computer & Networking _(2017)_
